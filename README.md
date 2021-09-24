@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+# Hernán Ezequiel Fleita
 
-You can use the [editor on GitHub](https://github.com/hernan-fleita/digital-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+_System Administrator and Cloud Engineer_
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Email](mailto:hernanfleita@gmail.com) /[LinkedIn](https://www.linkedin.com/in/hernanfleita/) /  
 
-### Markdown
+## 📝 Bio
+Soy un profesional de sistemas con más de 10 años de experiencia trabajando en el sector de IT, principalmente en infraestructura tecnológica. En la actualidad me encuentro realizando múltiples proyectos de gran envergadura en las áreas de datacenter, virtualización y cloud. Me considero una persona confiable, con una fuerte ética del trabajo y vocación de servicio. Mi objetivo es siempre poder aportar nuevas ideas, aprender de otras personas, promover el trabajo en equipo y seguir creciendo profesionalmente en áreas afines a IT.
+## 👨‍💻 Technical Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hernan-fleita/digital-cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Field Engineer** @ [Consulting Services SRL](https://cservices.com.ar/) _(Sep 2015 - Present)_
+Implementación y administración de infraestructuras Cloud & On-Premise.
