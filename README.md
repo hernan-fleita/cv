@@ -13,5 +13,7 @@ Implementación y administración de infraestructuras Cloud & On-Premise.
 
 ## 👨‍🎓 Education
 
-**DevOps, integración y agilidad continua** focused on full-stack JavaScript<br>
-[UTN - Extensión Universitaria](https://sigead.online/alumnos/validar_certificado) - CER-A7DC7SU9-622546 _(Sep 2021)_
+**DevOps, integración y agilidad continua** focused on DevOps<br>
+[UTN - Extensión Universitaria](https://sigead.online/alumnos/validar_certificado) - CER-A7DC7SU9-622546 _(Aug 2021)_
+
+
