@@ -10,3 +10,8 @@ Soy un profesional de sistemas con más de 10 años de experiencia trabajando en
 
 **Field Engineer** @ [Consulting Services SRL](https://cservices.com.ar/) _(Sep 2015 - Present)_
 Implementación y administración de infraestructuras Cloud & On-Premise.
+
+## 👨‍🎓 Education
+
+**DevOps, integración y agilidad continua** focused on full-stack JavaScript<br>
+[UTN - Extensión Universitaria](https://sigead.online/alumnos/validar_certificado) - CER-A7DC7SU9-622546 _(Sep 2021)_
