@@ -20,9 +20,12 @@ Implementación y administración de infraestructuras Cloud & On-Premise.
 [IT College](https://www.dropbox.com/s/t1y3w3h2ukdv4c9/AZ-900%20Microsoft%20Azure%20Fundamentals.pdf?dl=0) _(Sep 2021)_
 
 **SC-900 Microsoft Security, Compliance, and Identity Fundamentals**
-[IT College](https://www.dropbox.com/s/iyhc7x74do3yq1j/Certificado%20SC900%20Agosto%20IT%20College.pdf?dl=0)_(Aug 2021)_
+[IT College](https://www.dropbox.com/s/iyhc7x74do3yq1j/Certificado%20SC900%20Agosto%20IT%20College.pdf?dl=0) _(Aug 2021)_
 
+**Architecting on AWS**
+[IT College](https://credentials.itcollege.com.ar/1742257e-68be-4818-a363-04f3617923aa) _(June 2020)_
 
+**System Operations on AWS**
+[IT College](https://credentials.itcollege.com.ar/f23b1eff-a727-475c-a52f-70f902889b85) _(July 2020)_
 
-
-
+**VMware vSphere: Install, Configure, Manage [V6]**
