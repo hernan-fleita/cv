@@ -16,7 +16,13 @@ Implementación y administración de infraestructuras Cloud & On-Premise.
 **DevOps, integración y agilidad continua** focused on DevOps<br>
 [UTN - Extensión Universitaria](https://sigead.online/alumnos/validar_certificado) - CER-A7DC7SU9-622546 _(Aug 2021)_
 
-**AZ-900 Microsoft Azure Fundamentals** focused on Cloud 
+**AZ-900 Microsoft Azure Fundamentals** focused on Cloud
+[IT College](https://www.dropbox.com/s/t1y3w3h2ukdv4c9/AZ-900%20Microsoft%20Azure%20Fundamentals.pdf?dl=0) _(Sep 2021)_
+
+**SC-900 Microsoft Security, Compliance, and Identity Fundamentals**
+[IT College](https://www.dropbox.com/s/iyhc7x74do3yq1j/Certificado%20SC900%20Agosto%20IT%20College.pdf?dl=0)_(Aug 2021)_
+
+
 
 
 
